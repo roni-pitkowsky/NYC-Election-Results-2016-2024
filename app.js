@@ -3,7 +3,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/app/profile/roni.pitkowsky/viz/NYCElectionResults2016-2024/TotalVotesDashboard";
+const url = "https://public.tableau.com/views/NYCElectionResults2016-2024/TotalVotesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
@@ -46,4 +46,5 @@ function generateImage() {
 
 exportImage.addEventListener("click", function () {
     generateImage();
+
   });
