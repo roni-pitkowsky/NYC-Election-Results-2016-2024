@@ -8,7 +8,7 @@
 # 📌 Project Overview
 This project compares and analyzes NYC Presidential election results over the course of three elections: 2016, 2020 and 2024.
 
-# 📂 Dataset
+# 📂 Datasets
 This project uses election results data from the NYC Board of Elections and geographic data from the NYC Department of City Planning.<br/>
 🗳️ [2024 Results](https://vote.nyc/page/election-results-summary-2024)<br/>
 🗳️ [2020 Results](https://vote.nyc/page/election-results-summary-2020)<br/>
