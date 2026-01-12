@@ -16,6 +16,10 @@ This project uses election results data from the NYC Board of Elections and geog
 🗺️ [Election Districts](https://www.nyc.gov/content/planning/pages/resources/datasets/election-districts)
 <!-- # 💼 Executive Summary -->
 
+# 🖥️ Tools & Technologies
+- **Tableau:** Designed and developed interactive dashboards and visualizations.
+- **Python:** Performed data cleaning, transformation, and preparation for analysis.
+
 # 🖥️ How to Use
 1. Access the Dashboard
     - 🌐 View on Tableau Public → [NYC Election Results 2016-2024](https://public.tableau.com/app/profile/roni.pitkowsky/viz/NYCElectionResults2016-2024/TotalVotesDashboard)
